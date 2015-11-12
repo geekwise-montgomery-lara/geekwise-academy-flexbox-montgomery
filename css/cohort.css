@@ -1,0 +1,25 @@
+html , body{
+    padding:0;
+    margin:0;
+    height:100%;
+    width:100%;
+}
+
+nav{
+    display:flex;
+    margin-top:0;
+    background-color:white;
+    justify-content:center;
+}
+
+img{
+    
+}
+
+ul{
+    display:flex;
+}
+
+li{
+    list-style-type:none;
+}
